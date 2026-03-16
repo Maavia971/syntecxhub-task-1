@@ -4,6 +4,9 @@ A modern and responsive personal portfolio website built to showcase my frontend
 
 This project was developed as part of my internship task, focusing on clean design, structured layout, and responsive user experience.
 
+## Live Demo
+🔗 https://maavia971.github.io/syntecxhub-task-1/
+
 ## Features
 - Modern and clean UI design
 - Fully responsive layout
